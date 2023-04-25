@@ -17,4 +17,6 @@ mainでconflict！！
 
 ここはbranch200です。
 
-いやいやmainです。300ではないです。
+
+ここはbranch300です。
+
