@@ -1,11 +1,12 @@
-�͂��߂Ẵ��[�J�����|�W�g��
+はじめてのローカルリポジトリ
 
-conflict���܂�
-�͂��߂Ă�
+conflictします
+はじめての
 
-��xbranch-02��commit
+一度branch-02でcommit
 
 
-�͂��߂Ă�branch
+はじめてのbranch
 
-�����R�����g�������ł��B
+
+私もコメントしたいです。
